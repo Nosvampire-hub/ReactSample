@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "hello",
+      "day": "lets goooo",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "who are you",
+      "day": "lol",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
